@@ -4,7 +4,7 @@ This Python script was created to automate the process of guessing the combinati
 Room URL: https://tryhackme.com/room/ctfcollectionvol2.
 
 Windows OS requirements:
-- Download the requests library: #### pip install requests
+- Download the requests library: ``` pip install requests ```
 
 Before running the script make sure that you changed the url parameter to the IP address of the target machine.
 
