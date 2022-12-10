@@ -9,3 +9,5 @@ Windows OS requirements:
 Before running the script, ensure that the url parameter is set to the IP address of the target machine. 
 
 ![image](https://user-images.githubusercontent.com/85469488/206808783-41cc4a86-fad7-40e4-a2e8-58c443be17df.png)
+![image](https://user-images.githubusercontent.com/85469488/206869959-6ef3b293-bc51-4dda-b32f-b37b15017e4c.png)
+
